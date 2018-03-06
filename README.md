@@ -1,5 +1,6 @@
 ﻿npm install -g json-server
 
+json-server montastruc.json
 json-server db.json
 
 	http://localhost:3000
